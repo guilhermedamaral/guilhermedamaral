@@ -1,7 +1,7 @@
 ## Guilherme Damaral 💻
 
 <h3>Hello, welcome to my GitHub</h3>
-I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong>data science </strong> and <strong>machine learning</strong>. 
+🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong>data science </strong> and <strong>machine learning</strong>. 
 
 ## Main technologies
 ![Top Langs](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
