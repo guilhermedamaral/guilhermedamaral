@@ -18,9 +18,3 @@
 <a href="mailto:guilherme-direito@hotmail.com">![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 
 <a href="https://www.kaggle.com/guilhermeduamaral"><h3>Kaggle Profile<h3></a>
-
-
-<!--
-**guilhermedamaral/guilhermedamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
