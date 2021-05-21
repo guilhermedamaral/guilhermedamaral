@@ -10,7 +10,7 @@
 
 <p>
 - 🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong>data science </strong> and <strong>machine learning</strong>. <br>
-- 📚 I'm currently learning Python Web and back-end.<br>
+- 📚 I'm currently learning Python Web and data science.<br>
 - 👨‍💻 Main Technologies: Python, Django, Pandas, Jupyter.<br>
 </p>
 
