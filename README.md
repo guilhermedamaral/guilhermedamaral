@@ -1,7 +1,6 @@
 ## Guilherme Damaral 💻
 
 <h3>Hello, welcome to my GitHub</h3>
- <br></br>
 
 <p>
 <img align="left"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
