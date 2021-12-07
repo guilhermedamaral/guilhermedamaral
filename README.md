@@ -11,7 +11,7 @@
 <p>
 - 🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong>data science </strong> and <strong>machine learning</strong>. <br>
 - 📚 I'm currently learning data science and Web development.<br>
-- 👨‍💻 Main Technologies: Js, React, node, Python and Pandas.<br>
+- 👨‍💻 Main Technologies: Js, React, Node, Python and Pandas.<br>
 </p>
 
   ## Talk with me:
