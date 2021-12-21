@@ -9,7 +9,7 @@
 <br><br>
 
 <p>
-- 🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong> Web development </strong>.<br>
+- 🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong> Web development </strong><br>
 - 👨‍💻 Main Technologies: Js, Ts, React, Node.Js .<br>
 </p>
 
