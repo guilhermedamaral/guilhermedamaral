@@ -9,9 +9,8 @@
 <br><br>
 
 <p>
-- 🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong>data science </strong> and <strong>machine learning</strong>. <br>
-- 📚 I'm currently learning data science and Web development.<br>
-- 👨‍💻 Main Technologies: Js, React, Node, Python and Pandas.<br>
+- 🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong> Web development </strong>.<br>
+- 👨‍💻 Main Technologies: Js, Ts, React, Node.Js .<br>
 </p>
 
   ## Talk with me:
