@@ -8,7 +8,7 @@
 
 <br><br>
 <p>
-- 🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong> Web development </strong><br>
+- 🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong> Back-End development </strong><br>
 - 👨‍💻 Main Technologies: Python, Ansible, Ts, React, Node.Js .<br>
 </p>
 
