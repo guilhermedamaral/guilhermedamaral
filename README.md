@@ -1,18 +1,10 @@
 ## Guilherme Damaral 💻
 
-<h3>Hello, welcome to my GitHub</h3>
+- 💼 I currently work at Banco do Brasil, I develop back-end with Python and Shell, I also create and maintain automations related to server virtualization with Ansible
+- 📖 I am graduated in Information Systems at the UniProjeção (university)
+- 🚀 I'm focused on AWS and troubleshooting with Python
 
-<p>
-<img align="left"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-</p>
-
-<br><br>
-<p>
-&nbsp;- 🏡 I'm Guilherme Duarte Amaral, a Brazilian passionate about <strong> Back-End</strong><br>
-&nbsp;- 👨‍💻 Main Technologies: Python, Ansible, Ts, React, Node.Js .<br>
-</p>
-
-  ## &nbsp; Talk with me:
+## &nbsp; Talk with me:
   <p>
 
   &nbsp;<a href="https://www.linkedin.com/in/guilherme-duarte-amaral-a42201184/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
