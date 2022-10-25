@@ -1,14 +1,24 @@
-## Guilherme Damaral 💻
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<p><br></p>
+<p align="left"> 
+  🚀 I'm focused on AWS and troubleshooting with Python
+</p>
 
-- 💼 I currently work at Banco do Brasil, I develop back-end with Python and Shell, I also create and maintain automations related to server virtualization with Ansible
-- 📖 I am graduated in Information Systems at the UniProjeção (university)
-- 🚀 I'm focused on AWS and troubleshooting with Python
+<p align="left">
+  📖 I am graduated in Information Systems at the UniProjeção (university)
+</p>
 
-## &nbsp; Talk with me:
-  <p>
+<p align="left">
+  💼 I currently work at Banco do Brasil, I develop back-end with Python and Shell, I also create and maintain automations related to server virtualization with Ansible
+</p>
 
-  &nbsp;<a href="https://www.linkedin.com/in/guilherme-duarte-amaral-a42201184/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="mailto:guilherme-direito@hotmail.com">![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+<p align="left">
+  💌 Talk with me: ⤵️
+</p>
 
- </p>
-<br>
+<p align="left">
+  <a  href="mailto:guilherme-direito@hotmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Hotmail-0f6cbd?style=flat-square&labelColor=0f6cbd&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/guilherme-duarte-amaral-a42201184">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link" /></a>
