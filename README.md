@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
-  🚀 I'm focused on AWS and troubleshooting with Python
+  🚀 I'm focused on troubleshooting with Python
 </p>
 
 <p align="left">
