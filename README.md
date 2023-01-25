@@ -8,7 +8,7 @@
 <p align="left">
   📖 Graduated in Information Systems at the UniProjeção (university)
 </p>
-
+ 
 <p align="left">
   💼 Currently work at Banco do Brasil, I develop back-end with Python and Shell, also create and maintain automations related to server virtualization with Ansible
 </p>
