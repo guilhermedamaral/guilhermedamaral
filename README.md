@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  📖 Graduated in Information Systems at the UniProjeção (university)
+  📖 Graduated in Information Systems from UniProjeção (university)
 </p>
  
 <p align="left">
